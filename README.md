@@ -1,3 +1,6 @@
 # Automated-Amazon-Price-Tracker-Project
 Automated 🛒Amazon Price Tracker Project in 🐍 Python.
-In this #project, I use smtplib module (For Sending Price Drop Alert Email) & Web Scraping from <a src='https://www.amazon.in/Redgear-Mechanical-Keyboard-Spectrum-Control/dp/B08T28HSDN/ref=pd_rhf_ee_s_pd_sbs_rvi_sccl_1_1/258-2677873-8860314?pd_rd_w=nyJPu&content-id=amzn1.sym.dc04bec4-fa1d-4db1-84b4-6f2b15be4d08&pf_rd_p=dc04bec4-fa1d-4db1-84b4-6f2b15be4d08&pf_rd_r=AW2YPKWSQNDZD1HVE8HW&pd_rd_wg=TyPLJ&pd_rd_r=db913060-5557-4f67-8013-2fbb8e053d7e&pd_rd_i=B08T28HSDN&psc=1with%E2%80%A6'>Redgear Shadow Blade Mechanical Keyboard</a>using Beautiful Soup 🍲 module (For Product Price).
+
+In this #project, I use smtplib module (For Sending Price Drop Alert Email) & Web Scraping from https://lnkd.in/dQYHXhEx using Beautiful Soup 🍲 module (For Product Price).
+
+For sending Automated Price Drop Email, Host this project on Pythonanywhere link:- https://www.pythonanywhere.com/
